@@ -1,6 +1,6 @@
 # Learning JAX as a PyTorch User
 
-> [!IMPORTANT]
+> [!Fatir]
 > This is a test.
 
 As a PyTorch user, I found it somewhat challenging to get started with JAX due to its peculiar features (e.g., PRNG state management) and an ecosystem that may be confusing for beginners. This repo contains self-contained notebooks for deep learning models in JAX. In particular, I use the following libraries.
